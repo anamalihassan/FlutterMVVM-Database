@@ -1,6 +1,6 @@
 # Shortly
 
-Shorten URLs using service Store and fetch  shortened URLs in Flutter.
+Shorten URLs using service. Store and fetch  shortened URLs in Flutter.
 
 ## Design Pattern
 
